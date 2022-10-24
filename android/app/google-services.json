@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729508684037",
+    "project_id": "hat-shop3",
+    "storage_bucket": "hat-shop3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729508684037:android:a0eaa87932368b49d6176c",
+        "android_client_info": {
+          "package_name": "com.example.hat_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729508684037-cfjm5pi8rbo62317ha52ms4j9j8icj0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi_iuO7p2N8FuVXVQ8vT0OmSsfM2wPnuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729508684037-cfjm5pi8rbo62317ha52ms4j9j8icj0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
